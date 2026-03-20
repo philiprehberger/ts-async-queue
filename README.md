@@ -3,9 +3,9 @@
 [![CI](https://github.com/philiprehberger/ts-async-queue/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-async-queue/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/@philiprehberger/async-queue)](https://www.npmjs.com/package/@philiprehberger/async-queue)
 
-Priority queue for async tasks with concurrency control.
+Priority queue for async tasks with concurrency control
 
-## Install
+## Installation
 
 ```bash
 npm install @philiprehberger/async-queue
