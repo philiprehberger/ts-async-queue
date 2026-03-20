@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.1.3
+
+- Version bump for republish
+
 ## 0.1.2
 
 - Version bump for republish
