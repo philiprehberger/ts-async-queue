@@ -1,6 +1,8 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## 0.1.5
+
+- Standardize README badges and CHANGELOG formatting
 
 ## 0.1.4
 
@@ -14,13 +16,11 @@ All notable changes to this project will be documented in this file.
 
 - Version bump for republish
 
-## [0.1.1] - 2026-03-20
+## 0.1.1
 
 - Add publish workflow
 
-## [0.1.0] - 2026-03-20
-
-### Added
+## 0.1.0
 
 - `createQueue` factory with configurable concurrency
 - `add` method with priority support (higher priority runs first)
