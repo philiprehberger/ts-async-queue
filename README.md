@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-async-queue/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-async-queue/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/async-queue.svg)](https://www.npmjs.com/package/@philiprehberger/async-queue)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-async-queue)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Priority queue for async tasks with concurrency control
 
@@ -73,4 +74,4 @@ npm test
 
 ## License
 
-MIT
+[MIT](LICENSE)
