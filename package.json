@@ -52,7 +52,7 @@
   "sideEffects": false,
   "devDependencies": {
     "@types/node": "latest",
-    "tsdown": "^0.22.7",
+    "tsdown": "^0.23.0",
     "typescript": "^7.0.2",
     "unrun": "^0.3.1"
   }
